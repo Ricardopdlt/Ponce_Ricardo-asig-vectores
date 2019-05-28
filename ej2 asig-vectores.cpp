@@ -29,6 +29,8 @@ int main()
 
 	}
 
+	delete[] VVocal;
+
 	_getch();
 
 

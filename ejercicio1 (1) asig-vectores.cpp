@@ -44,6 +44,8 @@ int main()
 	}
 
 
+	delete[] VNum;
+
 	_getch();
 
 }

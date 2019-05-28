@@ -35,6 +35,10 @@ int main()
 
 	}
 
+
+
+	delete[] VNotas;
+
 	_getch();
 
 }
