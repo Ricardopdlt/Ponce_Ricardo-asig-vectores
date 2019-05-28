@@ -10,8 +10,8 @@ using namespace std;
 
 int main()
 {
-	float *VNotas;
-	VNotas = new float[15];
+	double *VNotas;
+	VNotas = new double[15];
 
 	for (int i = 0; i < 15; i++)
 	{
